@@ -10,7 +10,7 @@
 如有不懂可自行点击了解==&gt;[MLeaksFiner介绍](http://wereadteam.github.io/2016/07/20/MLeaksFinder2/)
 
 1.创建demo项目MLeaksFinderDeom引入MLeaksFiner开源文件夹
-![图片描述](/data/attachment/album/201811/12/204828ee0u9frzeempu07e.png)
+![图片描述](https://github.com/dongpeng66/MLeaksFinderDeom/blob/master/Snip20181112_1.png)
 
 2.导入这个文件夹就默认在debug模式下开启了，下面我举个例子检验：
 
